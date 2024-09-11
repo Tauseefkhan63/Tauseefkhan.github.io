@@ -1,0 +1,105 @@
+<section id="about">
+      <p class="section__text__p1">Get To Know More</p>
+      <h1 class="title">About Me</h1>
+      <div class="section-container">
+        <div class="circular-image">
+          <img src="images/about-pic.jpg" alt="Profile picture" class="about-pic" height="500px" width="400px">
+        </div>
+        <div class="about-details-container">
+          <div class="about-containers">
+            <div class="details-container">
+              <img src="images/experience.png" alt="Experience icon" class="icon">
+              <h3>Experience</h3>
+              <p>2+ year's <br>Business Intelligence Developer</p>
+            </div>
+            <div class="details-container">
+              <img src="images/education.png" alt="Education icon" class="icon">
+              <h3>Education</h3>
+              <p>B.E. In Computer Science & Engineering.<br>SRTM University</p>
+            </div>
+          </div>
+          <div class="text-container">
+            <p>🌐 Welcome to My World of Versatility!</p>
+            <br>
+            <p>Hello! I'm Ravina, an Engineer with a knack for versatility. 
+              Armed with Master's and Bachelor's degrees in Electronics and Telecommunication, 
+              I ventured into academia as an Assistant Professor before diving into Data Science. 
+              Proud graduate of OdinSchool's Data Science Bootcamp,
+               I decode data with a passion for making informed decisions. </p>
+            <p>Certified Data Science Professional-- 5 ⭐ Coder at Hackerrank 
+              | Expert at Python | Machine Leraning | Statistical Analysis | SQL | Excel | Power Bi 
+              ---- Aim to design data solutions for positive impact</p>
+            <p>Now, I'm eager to connect with fellow Data Science professionals.
+               If you're seeking a dedicated and enthusiastic team member,
+                let's chat and explore the possibilities for success.🤝✨</p>
+          </div>
+        </div>
+      </div>
+
+      <img src="images/arrow.png" alt="Arrow icon" class="icon arrow" onclick="location.href='./#experience'">
+    </section>
+
+
+
+
+
+
+    <section id="contact" class="contact_me pt-lg-40 pt-md-30 pt-20 pb-lg-80 pb-md-50 pb-30">
+        <div class="container">
+            <div class="row justify-content-end">
+                <div class="col-xl-9 col-lg-8 col-12">
+                    <div class="project_del">
+                        <h2 class="fs-md-42 fs-32 fw-300 text-white mb-24">Let's <span class="text-success-new">Connect</span></h2>
+                        <p class="fs-18 fw-500 text-gray-300">Feel free to get in touch with me. I am always open to
+                            discussing new projects, creative ideas or opportunities to be part of your visions.</p>
+                        <div class="row mt-24">
+
+
+https://www.youtube.com/embed/cdrV-Wf_LWQ?si=Aec1x3lKFRvC6a1y
+
+https://community.qlik.com/t5/user/viewprofilepage/user-id/149129
+
+
+Led the development of over 4 dashboards and reports using Qlik Sense, improving data accessibility for 40+ users. Skilled in creating
+Data Modelling, scripting, visualization, and reporting techniques from various sources.
+Resolved production issues such as report failures and data discrepancies, achieving a 95% success rate in report generation.
+Developed and automated customized reports using Qlik Nprinting, reducing manual reporting time by 40%.
+Managed Qlik Sense installations, server migrations, and maintenance.
+Proficient in Qlik server setup, security implementation, and admin activities.
+Designed daily refresh processes and managed tasks using QMC.
+
+
+
+
+
+Project code:
+
+                           <!-- <div class="col-md-6 col-12">
+                                    <div class="card portfolio-card">
+                                        <div class="portfolio_thumb">
+                                            <img srcset="images/44752e66b6_2.jpg 370w, images/44752e66b6_1.jpg 480w" sizes="(max-width: 370px) 370px,
+                480px" src="images/44752e66b6.jpg" class="card-img-top rounded-top" alt="Diabetes Prediction System">
+                                        </div>
+                                        <div class="card-body">
+                                            
+                                            <h5 class="card-title fw-600 fs-22 text-white">Diabetes Prediction System</h5>
+                                            
+                                            <div class="d-flex justify-content-between align-items-center">
+                                                <a href="#" class="btn btn-outline-success shadow-none px-24 show-portfolio-modal" data-video-url="https://www.youtube.com/embed/zJNPENeaPIU?si=7kgSt_H6awglNue8" data-bs-toggle="modal" data-bs-target="#projectModal-992">See My Work
+                                                </a>
+                                                                                                    <div class="thumb-sm rounded-pill">
+                                                        <img src="images/pyt-b.png" class="img-fluid w-px36" alt="Python Project">
+                                                    </div>
+                                                                                            </div>
+                                        </div>
+                                    </div>
+                                </div> -->
+
+
+
+
+
+
+
+
+
