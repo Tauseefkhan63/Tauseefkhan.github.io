@@ -1880,7 +1880,7 @@ Playing 11 Selection:<br>
     // TODO: Add SDKs for Firebase products that you want to use
     // https://firebase.google.com/docs/web/setup#available-libraries
 
-    const firebaseConfig = {"apiKey":"AIzaSyDY-VpUplry7GfPGKHNJW7-IeX4Mp5p67s","authDomain":"codebasics-io.firebaseapp.com","projectId":"codebasics-io","storageBucket":"codebasics-io.appspot.com","messagingSenderId":"951473079440","appId":"1:951473079440:web:66cd087965edc7b62ac415","measurementId":"G-2HG3SKS4VF"};
+  
 
     const measurement_id = "G-3DGEYNJWJJ";
     const api_secret = "feXbAge9R9yY4KQtiUlGTA";
